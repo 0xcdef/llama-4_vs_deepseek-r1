@@ -1,1 +1,5 @@
 streamlit
+dotenv
+llama-index
+llama-index-llm-groq
+IPython
